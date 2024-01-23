@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title> Example page </title>
+	</head>
+	<body>
+		<h1> example text </h1>
+<h2> first section</h2>
+		<p> example <strong> text </strong> . </p>
+		<h2> second <em> section </em> </h2>
+		<p> second example text. </p>
+		<a href=”https://www.unco.edu”> Example text </a>
+<a href=”https://www.unco.edu”><img scr=”https://t3.ftcdn.net/jpg/00/92/53/56/240_F_92535664_IvFsQeHjBzfE6sD4VHdO8u5OHUSc6yHF.jpg” alt=”example image”></a>
+	</body>
+</html>
