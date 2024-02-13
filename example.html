@@ -10,10 +10,26 @@
 	  	table, th, td {
 		border: 2px solid gray;
 		}
+		<!--sets all p and span text to those colors-->
+		p    { color:orange; }
+		span { color:green; }
 	</style>
 </head>
 <body>
 <h1>Projects:</h1>
+<!--3 examples of different ways to color text in CSS uses the p and span code in /style-->
+<p>
+   Part of this sentence is orange, 
+   <span>while the rest is green.</span>
+</p>
+<p>
+   Part of this sentence is orange, 
+   <span style="color:blue">while the rest 
+   is blue.</span>
+</p>
+<p style="color:red">
+   This sentence is red.
+</p>
 <!--tables look at CSS for border example-->
   <table>
   <caption>Example Table: Team Schedule</caption>
