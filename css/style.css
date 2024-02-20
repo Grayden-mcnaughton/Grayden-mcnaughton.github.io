@@ -7,3 +7,4 @@ td, th { padding-left: 10px;
 td a{color: red;}
 #testing{color: green;}
 .rowheader{color: purple;}
+:hover {color: orange;}
