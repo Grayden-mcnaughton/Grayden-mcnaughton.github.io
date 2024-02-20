@@ -1,5 +1,6 @@
 td { border: 1px solid black;}
 th,table { border: 3px solid black;}
-table { border-collapse: collapse;}
+table { border-collapse: collapse;
+       color: blue;}
 td, th { padding-left: 10px;
        padding-right: 10px;}
