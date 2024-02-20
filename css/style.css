@@ -4,12 +4,6 @@ table { border-collapse: collapse;
        color: blue;}
 td, th { padding-left: 10px;
        padding-right: 10px;}
-A{
-color: black;
-}
-#testing{
-color: green;
-}
-.rowheader{
-color: purple;
-}
+td a{color: red;}
+#testing{color: green;}
+.rowheader{color: purple;}
