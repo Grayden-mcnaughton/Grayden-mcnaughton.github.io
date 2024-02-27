@@ -1,7 +1,7 @@
 h1 {color: rgb(0,0,255);}
-h2 {}
-p {}
-table { }
+h2 { color: yellow;}
+p { color:blue;}
+table { background-color: coral;}
 th {background-color: red;}
  td {         border: 2px solid black;
                 padding: 15px;
