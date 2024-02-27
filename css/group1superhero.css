@@ -1,9 +1,12 @@
-h1 {color rgb(0,0,255);}
+h1 {color: rgb(0,0,255);}
 h2 {}
 p {}
 table { }
-th, tr {         border: 2px solid black;
-                padding: 15px;}
+th {}
+ td {         border: 2px solid black;
+                padding: 15px;
+    margin: auto;
+    text-align: center;}
 
 
 img {height: 250px;}
