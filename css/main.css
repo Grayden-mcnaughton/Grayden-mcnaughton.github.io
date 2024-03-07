@@ -1,0 +1,20 @@
+:root {
+--bg-color: #E8F1F5;
+--header-color: #FFC938;
+--font-color: #192E3E;
+}
+
+body {
+background-color: var(--bg-color);
+}
+
+h1, h2 {
+color: var(--header-color);
+}
+
+p {
+color: var(--font-color);
+}
+img {
+width: 500px;
+}
