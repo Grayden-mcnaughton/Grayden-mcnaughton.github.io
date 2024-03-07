@@ -12,12 +12,10 @@ h1, h2 {
 color: var(--header-color);
 }
 
-h1 {
- font-weight: bold;
-}
-
 p {
 color: var(--font-color);
+   text-align: justify;
+   text-align-last: left;
 }
 img {
   border-radius: 8px;
