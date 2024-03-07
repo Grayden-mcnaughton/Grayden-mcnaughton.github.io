@@ -16,5 +16,5 @@ p {
 color: var(--font-color);
 }
 img {
-width: 500px;
+  border-radius: 8px;
 }
