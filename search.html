@@ -8,7 +8,7 @@
     </head>
     <body>
         <h1>Fish search</h1>
-        <form action="https://www.google.com/search" method="GET">
+        <form action="https://www.google.com/search" method="GET" target="_blank">
             <p>
                 <label for="selectfish">Select a Fish:</label>
                 <select name="q" id="selectfish">
@@ -35,14 +35,12 @@
                 <label for="imagecheck">Images</label>
                 <input type="checkbox" name="tbm" value="isch" id="imagecheck" checked>
             </p>
-            <fieldset id="toplevelset">
                 <fieldset>
                     <div>
                         <input type="checkbox" name="newwindow" value="1" id="checkwindow">
                         <label for="checkwindow">Open in a new window</label>
                     </div>
                 </fieldset>
-            </fieldset>
             <p>
                 <input type="submit">
             </p>
