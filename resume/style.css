@@ -8,9 +8,9 @@ body {
    background-color: var(--bg-color);
 }
 
-h1, h2 {
+h1 {
 color: var(--header-color);
-      font-size: calc(12pt + 4vw);
+      font-size: 9vw;
 }
 
 p {
