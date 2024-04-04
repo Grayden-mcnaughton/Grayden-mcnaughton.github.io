@@ -2,6 +2,7 @@
 --bg-color: #C2E5FF;
 --header-color: #FFB520;
 --font-color: #3A00A7;
+--red: #8B0000;
 }
 
 body {
@@ -11,6 +12,9 @@ body {
 h1 {
 color: var(--header-color);
       font-size: 9vw;
+}
+h2 {
+color: var(--red);
 }
 
 p {
