@@ -17,7 +17,7 @@ p {
 color: var(--font-color);
    text-align: justify;
    text-align-last: left;
-    font-size: 10vw;
+    font-size: 8vw;
 }
 img {
   border-radius: 8px;
