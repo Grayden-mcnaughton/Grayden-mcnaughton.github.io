@@ -7,6 +7,7 @@
 
 body {
    background-color: var(--bg-color);
+   font-size: 3vw;
 }
 
 h1 {
@@ -15,6 +16,7 @@ color: var(--header-color);
 }
 h2 {
 color: var(--red);
+   font-size: 6vw;
 }
 
 p {
@@ -24,18 +26,18 @@ color: var(--red);
 }
 
 img {
-  border-radius: 8px;
+  border-radius: 8vw;
 }
 
 nav{
-    border: 7px var(--header-color) solid;
+    border: 7vw var(--header-color) solid;
 }
 
 section
 {
-    border: 5px var(--header-color) solid;
-    margin: 5px;
-    margin-top: 50px;
+    border: 5vw var(--header-color) solid;
+    margin: 5vw;
+    margin-top: 50vw;
 }
 .date
 {
@@ -44,5 +46,5 @@ section
 ul
 {
     list-style: none;
-    padding-left: 0px;
+    padding-left: 0vw;
 }
