@@ -10,16 +10,16 @@ body {
 
 h1, h2 {
 color: var(--header-color);
-    font-size: 30vw;
+    font-size: 70vw;
 }
 
 p {
 color: var(--font-color);
    text-align: justify;
    text-align-last: left;
-    font-size: 20vw;
+    font-size: 50vw;
 }
 img {
   border-radius: 8px;
-  height: 20vh;
+  height: 50vh;
 }
