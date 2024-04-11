@@ -12,9 +12,10 @@ h1, h2 {
 color: var(--header-color);
     font-size: 12vw;
 }
-a {
+a, ul, ol, il {
 font-size: 8vw;
 }
+
 
 p {
 color: var(--font-color);
@@ -24,6 +25,6 @@ color: var(--font-color);
 }
 img {
   border-radius: 8px;
-  height: 30vh;
-length: 30vh
+  height: 30vw;
+length: 30vw;
 }
