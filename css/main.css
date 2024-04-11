@@ -22,4 +22,5 @@ color: var(--font-color);
 img {
   border-radius: 8px;
   height: 12vh;
+length: 12vh
 }
